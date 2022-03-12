@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("../images/img.html1.jpg");
+  background-size: cover;
+  font-weight: "Syne Mono", monospace;
+}
+
+.wrapper {
+  color: white;
+  width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.wrapper {
+  width: 480px;
+}
+
+.wrapper p {
+  opacity: 0.7;
+  font-weight: 300;
+}
+
+header {
+  width: 60%;
+  margin: 0 auto;
+  padding: 25px 0;
+}
+
+header nav {
+  text-align: center;
+}
+
+header nav a {
+  font-size: 24px;
+  color: purple;
+  text-decoration: dashed;
+}
